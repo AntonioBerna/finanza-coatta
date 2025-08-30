@@ -1,8 +1,11 @@
+# MkDocs documentation
+site*/
+
 # macOS
 .DS_Store
 
 # Work in progress
 mkdocs2.yml
-docs/base/*
-docs/intermedio/*
-docs/avanzato/*
+docs/base/
+docs/intermedio/
+docs/avanzato/
