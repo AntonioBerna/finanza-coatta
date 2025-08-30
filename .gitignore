@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Work in progress
+mkdocs2.yml
+docs/base/*
+docs/intermedio/*
+docs/avanzato/*
