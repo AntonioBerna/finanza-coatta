@@ -8,9 +8,9 @@ Qua se sta ancora lavorando duro 💪💸. La roadmap è in costruzione 🏗️,
 
 ## 🛠️ Cosa stamo a fa'
 
-- Sistemamo li contenuti **Base** 🟢: le prime dritte pe' capì er mondo dei sordi senza fa' figure de merda 🍫🙈  
-- Rifiniamo **Intermedio** 🟡: investimenti, trucchetti del mestiere e numeri 🔢  
-- Completamo **Avanzato** 🔴: mosse da sboroni, strategie da veri capi 😎💰  
+- Sistemamo li contenuti **Base** 🟢: le prime dritte pe' capì er mondo dei sordi senza fa' figure de merda 🍫🙈
+- Rifiniamo **Intermedio** 🟡: investimenti, trucchetti del mestiere e numeri 🔢
+- Completamo **Avanzato** 🔴: mosse da sboroni, strategie da veri capi 😎💰
 
 ---
 
@@ -22,7 +22,7 @@ Perché nun ce piace pubblicà fregnacce 🤡. Vogliamo che la roadmap sia **pul
 
 ## 🔜 Cosa aspettatte
 
-Tra poco tutto sarà disponibile, passo passo, da principiante a esperto 💪.  
+Tra poco tutto sarà disponibile, passo passo, da principiante a esperto 💪.
 Nel frattempo, pijate er caffè ☕, rilassateve 🛋️ e restate collegati, che qua se cresce insieme! 🚀
 
 ---

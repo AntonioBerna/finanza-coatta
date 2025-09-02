@@ -137,8 +137,27 @@ extra_javascript:
 # Page tree
 nav:
   - Base:
-    - work-in-progress.md
+    - Indice coatto: base/indice-coatto.md
+    - Impara a Risparmià:
+      - "'Na panoramica pe' capisse": base/impara-a-risparmia/na-panoramica-pe-capisse.md
+      - Er budget: base/impara-a-risparmia/er-budget.md
+      - "Strategie pe' risparmià": base/impara-a-risparmia/strategie-pe-risparmia.md
+      - Routine de conti: base/impara-a-risparmia/routine-de-conti.md
+      - Pensa a quanno vai in pensione: base/impara-a-risparmia/pensa-a-quanno-vai-in-pensione.md
+    - Risparmia sul mutuo:
+      - work-in-progress.md
+    - Fai il tuo primo investimento:
+      - work-in-progress.md
+    - Investi in azioni:
+      - work-in-progress.md
+    - Investimenti sostenibili:
+      - work-in-progress.md
+    - Il Mercato Obbligazionario:
+      - work-in-progress.md
   - Intermedio:
-    - work-in-progress.md
+    - Indice coatto: intermedio/indice-coatto.md
+    - Paga meno tasse (legalmente):
+      - work-in-progress.md
   - Avanzato:
+    - Indice coatto: avanzato/indice-coatto.md
     - work-in-progress.md
