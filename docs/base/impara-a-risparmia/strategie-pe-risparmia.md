@@ -88,7 +88,7 @@ Scegli quanto vuoi mette via (50, 100, 200 euro...) e falla gira' su 'n conto ri
 
 ## 🥶 Ma te serve davvero?
 
-**Guarda bene che compri e chiedete: "Me serve davvero sta roba?"**
+Guarda bene che compri e chiedete: "Me serve davvero sta roba?"
 
 Tutti buttamo sordi in cazzate, ma mo è ora de taglià! Occhio alle abitudini sceme, tipo due fast food a settimana dopo la palestra: falla una volta sola e vedi che te restano 30 euro in più ar mese!
 

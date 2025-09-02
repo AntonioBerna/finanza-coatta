@@ -18,7 +18,7 @@ Ecco che te porti a casa:
 
 Te fai er gruzzoletto, così se te si rompe la lavatrice o te viene voglia de 'na PS5, stai sereno e nun te devi preoccupa'.
 
-_Nun è magia, è solo che te sveji e pensi ar futuro, capito?_ 
+_Nun è magia, è solo che te sveji e pensi ar futuro, capito?_
 
 ## 🚀 Pijate 'n attimo pe' pensa' ar futuro
 

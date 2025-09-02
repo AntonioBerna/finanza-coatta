@@ -110,16 +110,16 @@ _Ognuno c'ha pro e contro, dipende quanto sei coatto coi sordi!_
 1. **Reddito lordo**: diciamo che guadagni $\unicode{0x20AC}24.000$ l'anno.
 2. **Scaglioni IRPEF**: in Italia le tasse (IRPEF) so' a scaglioni, cioè più guadagni più paghi.
     - Fino a $\unicode{0x20AC}15.000$ paghi il $23\%$:
-    
+
         $$\unicode{0x20AC}15.000 \cdot 0.23 = \unicode{0x20AC}3.450$$
-    
+
     - Da $\unicode{0x20AC}15.001$ a $\unicode{0x20AC}24.000$ paghi il $25\%$ solo su $\unicode{0x20AC}9.000$[^2]:
-    
+
     $$\unicode{0x20AC}9.000 \cdot 0.25 = \unicode{0x20AC}2.250$$
 
 3. **Totale tasse senza deduzioni**: $\unicode{0x20AC}3.450 + \unicode{0x20AC}2.250 = \unicode{0x20AC}5.700$
 4. **Se versi $\unicode{0x20AC}1.500$ ar fondo pensione**, quella cifra la togli dal reddito su cui calcoli le tasse:
-    
+
     $$\unicode{0x20AC}24.000 - \unicode{0x20AC}1.500 = \unicode{0x20AC}22.500$$
 
 5. **Ricalcoli le tasse su $\unicode{0x20AC}22.500$**:

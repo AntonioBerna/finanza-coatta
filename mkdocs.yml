@@ -52,11 +52,12 @@ theme:
         icon: material/toggle-switch-off
         name: Switch to system preference
   font:
-    text: Roboto 
+    text: Roboto
     code: JetBrains Mono
-  favicon: assets/favicon.png
   icon:
-    logo: logo
+    logo: material/library
+  favicon: assets/finanza-coatta-logo_64x64.png
+  logo: assets/finanza-coatta-logo_64x64.png
 
 # Plugins
 plugins:

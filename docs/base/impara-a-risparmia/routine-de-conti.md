@@ -39,7 +39,7 @@ Fatte 'n investimento automatico su fondi comuni o [ETF](https://it.wikipedia.or
 
 ## 🤓 Impara sempre, fratè
 
-**Ripetemo tutti insieme: "Se vuoi sordi veri, devi studià!"**
+Ripetemo tutti insieme: "Se vuoi sordi veri, devi studià!"
 
 Leggi libri, senti podcast, guarda siti affidabili tipo **Finanza Coatta** e chiedi aiuto a chi ne sa. Un bravo consulente te salva la pelle!
 
